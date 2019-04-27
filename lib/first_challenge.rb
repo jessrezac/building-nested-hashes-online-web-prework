@@ -38,7 +38,7 @@ def first_challenge
        :age => "51"
      },
      :heroine => {
-       :name => "Juliet", 
+       :name => "Juliet",
        :age => "15",
        :status => "alive"
      },
@@ -56,5 +56,5 @@ def first_challenge
       ]
     }
    }
-  
+
 end
